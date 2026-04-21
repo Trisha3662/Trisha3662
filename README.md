@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Trisha
 
-<!--
-**Trisha3662/Trisha3662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student (Completed 2nd Year)
+🏫 Amrita Vishwa Vidyapeetham
+💻 Exploring Web Development & Programming
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 📚 Learned multiple programming languages through academics
+* 🌱 Currently improving my skills by building projects
+* 💡 Interested in frontend development
+* 🎯 Looking for internship opportunities to gain real-world experience
+
+---
+
+## 🛠️ Skills (Learning & Practicing)
+
+### 💻 Programming Languages
+
+* Python (Basics)
+* Java (Basics)
+* C (Basics)
+
+### 🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript (Beginner)
+
+### 🗄️ Database
+
+* MySQL (Basics)
+
+### 📚 Core Concepts
+
+* Data Structures & Algorithms (Learning)
+
+---
+
+## 🚀 Projects
+
+🍽️ Restaurant Website
+🔗 https://trisha3662.github.io/restaurant-website/
+
+---
+
+## 📈 Currently Working On
+
+* Improving JavaScript skills
+* Building more frontend projects
+
+---
+
+## 🌐 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/trisha-p-048a2335a/)
