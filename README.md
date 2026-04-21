@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Trisha
+<h1 align="center">👋 Hi, I'm Trisha</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Frontend Developer 🚀</h3>
 
-💻 B.Tech CSE Student (2nd Year Completed)
-🏫 Amrita Vishwa Vidyapeetham
-🚀 Aspiring Frontend Developer
+<p align="center">
+🎓 Amrita Vishwa Vidyapeetham | 2nd Year Completed  
+</p>
 
 ---
 
@@ -37,17 +38,37 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Trisha3662\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Trisha3662&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trisha3662&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-🍽️ Restaurant Website
+<p align="center">
+🍽️ <b>Restaurant Website</b><br>
 🔗 https://trisha3662.github.io/restaurant-website/
+</p>
 
 ---
 
-## 🌐 Connect
+## 📈 Currently Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/trisha-p-048a2335a/)
+* JavaScript (Advanced concepts)
+* Responsive UI Design
+* Building real-world frontend projects
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/trisha-p-048a2335a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
